@@ -1,3 +1,7 @@
-# hello world
-just a demo
-I am Prasad Jagtap so i am beginer in githhub.
+#include<iostream>
+  using namespace std;
+  
+  int main(){
+  cout<<"Hello World";
+  return 0;
+  }
